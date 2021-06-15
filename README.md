@@ -30,7 +30,7 @@ Open terminal in that direcory and run :
 python orbit_solved.py
 ```
 
-If snap is not installed at the default location, Please provide the custom path when prompted.
+If snap is not installed at the default location, Please provide the custom path to orbit files when prompted.
 
 
 ## 4 Check
